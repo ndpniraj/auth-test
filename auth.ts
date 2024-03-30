@@ -23,7 +23,6 @@ const authConfig: NextAuthConfig = {
       },
     }),
   ],
-  trustHost: false,
 };
 
 export const {
